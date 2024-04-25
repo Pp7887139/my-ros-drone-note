@@ -7,3 +7,5 @@ python multirotor_communication.py iris 0
 控制:
 cd ~/XTDrone/control/keyboard
 python multirotor_keyboard_control.py iris 1 vel
+腳本:
+./offb.sh
