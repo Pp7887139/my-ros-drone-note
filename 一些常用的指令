@@ -1,2 +1,9 @@
 編譯px4:make px4_sitl_default gazebo
 啟動gazebo:roslaunch px4 mavros_posix_sitl.launch
+運行px4:roslaunch px4 
+建立通信:
+cd ~/XTDrone/communication/
+python multirotor_communication.py iris 0
+控制:
+cd ~/XTDrone/control/keyboard
+python multirotor_keyboard_control.py iris 1 vel
