@@ -5,7 +5,7 @@
 解決昨天的問題:
 AttributeError: module 'em' has no attribute 'RAW_OPT'
 [2/729] Generating git version header
-ninja: build stopped: subcommand failed.
+ninja: build stopped: subcommand failed. 
 Makefile:198: recipe for target 'px4_sitl_default' failed
 make: *** [px4_sitl_default] Error 1
 
