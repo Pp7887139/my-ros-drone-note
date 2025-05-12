@@ -9,6 +9,7 @@ https://github.com/mavlink/QGroundControl/releases
 使用:v3.5.6版本
 
 
+
 本日問題:
 # make px4_sitl_default 出現錯誤
 AttributeError: module 'em' has no attribute 'RAW_OPT'
