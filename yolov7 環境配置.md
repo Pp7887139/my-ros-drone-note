@@ -5,7 +5,7 @@
 
 #開發軟體下載:
 
-Anaconda https://www.anaconda.com/
+Anaconda https://www.anaconda.com/ 
 
 Pycharm https://www.jetbrains.com/pycharm/\
 
